@@ -1,1 +1,6 @@
 # Codewars
+
+Codewars.com exercises!
+
+
+
