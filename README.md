@@ -1,5 +1,5 @@
 # Codewars
--Codewars.com exercises!
+Codewars.com exercises!
 
 
 
